@@ -1,0 +1,7 @@
+{
+  "name": "Luna Rosa Store",
+  "description": "Tienda online de ropa deportiva premium con colecciones exclusivas, carrito de compras, selector de talles y colores, y pedidos directos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
